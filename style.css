@@ -1,17 +1,15 @@
 .ml{
     margin-left: 200px;
 }
-.ml2{
-    margin-left: 200px;
-    padding-left: 50px;
-}
+
 .ml3
 {
     text-align: center;
+    font-size: 15px;
+    margin-top: 70px;
 }
 .ml4{
     margin-left: 110px;
-    /* border: 1px solid black; */
     width: 450px;
 }
 .button1
@@ -31,7 +29,6 @@
 
 .nav-li{
     text-align: justify;
-    padding-left: 90px;
     color: black;
     font-weight: bold;
 }
